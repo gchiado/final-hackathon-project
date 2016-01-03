@@ -1,0 +1,680 @@
+Name,Team,IP,wFA,wFT,wFC,wFS,wFO,wSI,wSL,wCU,wKC,wEP,wCH,wSC,wKN,playerid
+Clayton Kershaw,Dodgers,236,39.1, , , , , ,5.4,11.6, , ,-0.7, , ,2036
+Matt Harvey,Mets,178.1,30.5,0.7, , , , ,2.8,5.7, , ,3.7, , ,11713
+Max Scherzer,Tigers,214.1,25.3,-1.8, , , , ,16.4,-2.9, , ,1.4, , ,3137
+Lance Lynn,Cardinals,201.2,19.2,-2.7, , , , ,-7,-1.6, , ,-1.2, , ,2520
+Madison Bumgarner,Giants,201.1,16.2,-0.5, , , , ,13.1,2.5, , ,5.5, , ,5524
+Jose Quintana,White Sox,200,14.4,2.4, , , , ,-1.7,-3.7, , ,-6.3, , ,11423
+Sean Doolittle,Athletics,69,13.7,0, , , , , ,-1.3, , ,1.1, , ,1581
+Dane de la Rosa,Angels,72.1,13.2, ,1.1,-0.4, , ,0.4, , , ,0.3, , ,10095
+Zack Greinke,Dodgers,177.2,13.1,1.3,-2, , , ,1,3.8, , ,3.6, , ,1943
+Nathan Eovaldi,Marlins,106.1,12.7,0,0, , , ,-1,-3.7, , ,-1.4, , ,9132
+Tanner Scheppers,Rangers,76.2,12.7, , , , , , ,1.8, , ,0, , ,10267
+Jose Fernandez,Marlins,172.2,12.5,2.7,0, , , ,0,23.3, , ,2.1, , ,11530
+Adam Wainwright,Cardinals,241.2,12.4, ,12.8, , ,-0.9, ,17, , ,-3.7, , ,2233
+Cliff Lee,Phillies,222.2,12.3,14.7,5.2, , , ,-1.7,-2.2, , ,1.6, , ,1636
+Kevin Siegrist,Cardinals,39.2,11.8,1.1, , , , ,-0.3,-0.2, , ,0.6, , ,8180
+Tyler Clippard,Nationals,71,11.8, ,3, , , ,-1.6, , , ,4.2, , ,5640
+Tommy Hunter,Orioles,86.1,11.3,-0.2,4.9, , , ,2.5,-0.8, , ,-3.4, , ,1157
+Tony Cingrani,Reds,104.2,11.1, , , , , ,2.4,0, , ,-2.8, , ,12555
+Trevor Rosenthal,Cardinals,75.1,11.1, , , , , ,-1,-1.1, , ,1.4, , ,10745
+Craig Kimbrel,Braves,67,11.1,-2.3, , , , ,10.5,-0.1,-0.1, ,0.1, , ,6655
+Homer Bailey,Reds,209,10.9,9, , , , ,-0.4,-2.6,1.3, ,1.8, , ,8362
+Joel Peralta,Rays,71.1,10.8, ,-0.1,-6.2, , , ,6.8, , , , , ,2332
+Bartolo Colon,Athletics,190.1,10.6,6, , , , ,2.1, , , ,1.7, , ,375
+Clay Buchholz,Red Sox,108.1,10.1,1.2,12.9,-0.1, , , ,2.3, , ,-0.1, , ,3543
+Mike Minor,Braves,204.2,10.1, , , , , ,1.5,-3.2,2.6, ,5.6, , ,10021
+Michael Wacha,Cardinals,64.2,9.9, ,-1.5, , , , ,-0.3, , ,2.8, , ,14078
+Caleb Thielbar,Twins,46,9.7,4.3,-0.1, , , ,1.1,-3.6, , ,0.6, , ,10078
+Shelby Miller,Cardinals,173.1,9.5, ,0.3, , , , ,2.4, , ,-2.2, , ,10197
+J.J. Hoover,Reds,66,9.5, , , , , ,0.2,0.3, , ,-0.2, , ,9037
+Ernesto Frieri,Angels,68.2,9.2,1, , , , ,-6, , , ,-1.3, , ,5178
+Joe Nathan,Rangers,64.2,9.1,1.1,1.6, , , ,7,0.3, , , , , ,1122
+Chad Gaudin,Giants,97,9.1, , , , ,2.2,-1.3, , , ,-1.3, , ,1783
+Anthony Varvaro,Braves,73.1,9, , , , , , ,-0.4, , ,1.8, , ,2385
+Aroldis Chapman,Reds,63.2,9, , , , , ,5.7, , , ,-0.7, , ,10233
+Jim Henderson,Brewers,60,8.9,-0.5, , , , ,-2.3, , , , , , ,6653
+Addison Reed,White Sox,71.1,8.8,0.8, , , , ,-2.9, , , ,2.3, , ,10586
+David Carpenter,Braves,65.2,8.7,0.8, , , , ,4.4, , , ,0.9, , ,3959
+Stephen Strasburg,Nationals,183,8.6,-0.9, , , , , ,14, , ,8.6, , ,10131
+Dale Thayer,Padres,65,8.5,1.3, , , , ,-4, , , ,-0.7, , ,5032
+C.J. Wilson,Angels,212.1,8.5,2.7,-4, , , ,3.3,0.6, , ,0, , ,3580
+Andrew Cashner,Padres,175,8.4,9, , , , ,1.7,0, , ,-0.4, , ,8782
+Tanner Roark,Nationals,53.2,8.4, , , , , ,4.3,1.1, , ,1.5, , ,8753
+Jim Johnson,Orioles,70.1,8.2,0.1, , , , , ,1.5, , ,-2.8, , ,3656
+Koji Uehara,Red Sox,74.1,8.1,1.5, ,18.2, , ,-0.5, , , , , , ,9227
+Zack Wheeler,Mets,100,7.5,0.7, , , , ,-2.5,-3.6, , ,-0.2, , ,10310
+Felix Hernandez,Mariners,204.1,7.4, ,3.4, , ,7.3,2.7,-1.2, , ,2.3, , ,4772
+Drew Smyly,Tigers,76,7.4,2.3,0.5, , , ,1.7, , , ,-1.2, , ,11760
+Hisashi Iwakuma,Mariners,219.2,7.4, , ,6.6, ,14.7,-2.6,1.1, , , , , ,13048
+Jean Machi,Giants,53,7.2,-1, , , , , ,3, , ,1.7, , ,3220
+Julio Teheran,Braves,185.2,7.2,-5.6, , , , ,2.7,-0.2, , ,0, , ,6797
+Luke Hochevar,Royals,70.1,7.2, ,10.3, , ,2.4,-0.6,-2.7,0.6, ,-0.3, , ,6943
+Justin Wilson,Pirates,73.2,7.2,6.1,1, , , , ,0.5, , ,-0.2, , ,4301
+Tyler Thornburg,Brewers,66.2,7, , , , , , ,4.9, , ,-0.2, , ,10688
+Chris Tillman,Orioles,206.1,6.9,0.2,1.8, , , ,-3.5,-1.3,-1.7, ,-0.8, , ,5279
+Chris Archer,Rays,128.2,6.8,-0.9, , , , ,7.8, , , ,-2.9, , ,6345
+Jason Frasor,Rangers,49,6.7, , , , , ,0.1, , , ,0.6, , ,1906
+Hyun-Jin Ryu,Dodgers,192,6.5,-1, , , , ,0.3,-5.6, , ,20.7, , ,14444
+Casey Fien,Twins,62,6.4,-3, , , , ,0.8,-0.1, , ,5, , ,3926
+Jonathan Pettibone,Phillies,100.1,6.1,2.5,0.1, , , ,-9.8, , , ,-5, , ,7106
+Jon Niese,Mets,143,6,1.6,0.8, , , , ,-8.2, , ,-4.1, , ,4424
+Jordan Zimmermann,Nationals,213.1,6,1.5, , , , ,6.1,0.8, , ,1.8, , ,4505
+Hector Santiago,White Sox,149,5.9,0,-2.5, , ,4.2,-0.5,-5.3, , ,-4.6,-2.7, ,4026
+Jon Lester,Red Sox,213.1,5.9, ,2.4, , ,-3, ,-3.5, , ,2.9, , ,4930
+Anibal Sanchez,Tigers,182,5.8, ,0.4, , ,0,8.5,-0.2, , ,9.2, , ,3284
+Travis Wood,Cubs,200,5.8,1.1,19.2, , , ,-0.8,-2.5, , ,0.4, , ,9884
+Seth Maness,Cardinals,62,5.7,0.2, , , ,6.5,-0.2,-1.9, , ,-2.3, , ,12235
+Jeff Locke,Pirates,166.1,5.6,-2.7, , , , , ,-2.4,-0.8, ,3.6, , ,2929
+Joe Thatcher,- - -,39.1,5.4, ,-1.6, , , ,-0.9, , , , , , ,4620
+James Shields,Royals,228.2,5.3,-9.5,2.6, , , ,5.6,5.5,-4.6, ,11.9, , ,7059
+LaTroy Hawkins,Mets,70.2,5.3,2.1, , , , ,-0.2,-0.2, , ,-0.2, , ,729
+Michael Bowden,Cubs,37.2,5.3,0.1,0.3,0.3, , ,-3.3, , , ,-0.3, , ,4440
+Greg Holland,Royals,67,5.2, , , , , ,12.4,0.2, , ,0.9, , ,7196
+J.J. Putz,Diamondbacks,34.1,5.2,-0.1,-0.2,-1, , ,-0.4, , , , , , ,1795
+Neal Cotts,Rangers,57,5.2,0.4,3.5, , , ,5.3,-0.1, , ,0.4, , ,1797
+Rafael Soriano,Nationals,66.2,5.2,1,5, , , ,-6.3, , , , , , ,1100
+Rex Brothers,Rockies,67.1,5,-0.1, , , , ,6.2, , , ,-2.1, , ,9794
+Fernando Salas,Cardinals,28,5,0.2, , , , ,-0.5, , , ,-4.8, , ,4971
+Arquimedes Caminero,Marlins,13,5,-0.3, , , , ,-0.9,-1, , ,-0.4, , ,8992
+Jason Grilli,Pirates,50,4.9, , , , , ,4.1, , , ,0.3, , ,521
+Johnny Cueto,Reds,60.2,4.8,-1.5,1.7, , , ,-2.7,-0.3, , ,7.1, , ,6893
+Eric Stults,Padres,203.2,4.8,1.6, , , , ,3.4,-7.7, , ,-1.4, , ,8011
+Dan Straily,Athletics,152.1,4.8,-2.9, , , , ,6.5,-0.1, , ,-2, , ,9460
+Robbie Ross,Rangers,62.1,4.8,-0.2,0.3, , , ,-0.2,0, , ,0.7, , ,6819
+Sandy Rosario,Giants,41.2,4.8, , , , , ,1.6, , , ,-1.8, , ,1525
+Tom Wilhelmsen,Mariners,59,4.6,-0.4, , , , , ,1.8, , ,1, , ,9975
+Tyler Chatwood,Rockies,111.1,4.6,-2.5, , , , ,2,0.2, , ,-2, , ,4338
+Gio Gonzalez,Nationals,195.2,4.5,-4.6, , , , , ,7.7, , ,3.5, , ,7448
+Ross Ohlendorf,Nationals,60.1,4.5,0.7, , , , ,0.5, , , ,-2.5, , ,8268
+Brett Cecil,Blue Jays,60.2,4.5, ,-1, , ,2.7,2.7,-0.1, , ,-0.8, , ,2660
+Samuel Deduno,Twins,108,4.4, ,-0.5, , , , ,-0.8, , ,-4.4, , ,5285
+Anthony Swarzak,Twins,96,4.4,7.2, , , , , ,-2.8, , ,-1.4, , ,7466
+Charlie Furbush,Mariners,65,4.3,-1.7, , , , ,2.9,0.9, , ,-0.1, , ,1370
+Blake Parker,Cubs,46.1,4.1,-0.5, ,-1.2, , , ,1.5, , ,0.5, , ,5224
+Nick Vincent,Padres,46.1,4.1,4, , , , ,4.5, , , ,0, , ,7555
+Tim Stauffer,Padres,69.2,4.1,1.1, , , , ,1,-0.9, , ,2.4, , ,6432
+Michael Kohn,Angels,53,4,0.6, , , , ,-4.1,0.5, , ,-0.8, , ,8505
+David Price,Rays,186.2,4,10.6,0.1, , , ,0.7,-5.8, , ,8.5, , ,3184
+R.A. Dickey,Blue Jays,224.2,4, , , , , , , , ,4.2, , ,-11.9,1245
+Tim Hudson,Braves,131.1,3.9, ,4.7,0.1, ,4.5, ,0.1, , , , , ,921
+Joaquin Benoit,Tigers,67,3.8,1.5, , , , ,3, , , ,4.8, , ,1437
+James Russell,Cubs,52.2,3.8,-3.6,-0.7, , , ,2.9,-4.1, , ,2.1, , ,4089
+Glen Perkins,Twins,62.2,3.8,12.5, , , , ,-0.2, , , ,0, , ,8041
+Andrew Albers,Twins,60,3.8,0.2,0.2, , ,-1.5,-2.6,1.2, , ,1, , ,7853
+Gerrit Cole,Pirates,117.1,3.8,3.2,3.4, , , ,4.5, , , ,0.5, , ,13125
+Juan Gutierrez,- - -,55.1,3.8,-1.2, , , , , ,0.7, , ,-0.3, , ,3265
+Jake McGee,Rays,62.2,3.7,5.2, , , , ,-1.6, , , , , , ,7550
+Jerome Williams,Angels,169.1,3.7, ,-6.2, , ,-11.3,-1.6,3.3, , ,-3.1, , ,1137
+Jimmy Nelson,Brewers,10,3.6,-0.3, , , , ,0.7,0.4, , ,0.2, , ,10547
+Doug Fister,Tigers,208.2,3.6,5.8,-6.3, , , ,-2.2,1.9, , ,2.8, , ,9425
+Casey Janssen,Blue Jays,52.2,3.5,-0.6,2.6, , , ,1.4,1.4, , , , , ,7355
+Brad Hand,Marlins,20.2,3.4,3.5, , , , , ,-0.9, , ,-1.8, , ,9111
+David Robertson,Yankees,66.1,3.4, ,5.3, , , , ,3.5,-1.7, ,0.1, , ,8241
+Jarred Cosart,Astros,60,3.4, ,4.7, , ,1, ,-1.3, , ,0.2, , ,10304
+Mark Melancon,Pirates,71,3.4, ,10.9, , , , ,0.9,2.9, ,0, , ,4264
+J.P. Howell,Dodgers,62,3.4, , , , ,6.3,6.3, , , ,-2.1, , ,8245
+Yovani Gallardo,Brewers,180.2,3.4,-3.6,4.2, , , ,-2.7,-2.4, , ,-0.6, , ,8173
+Tony Watson,Pirates,71.2,3.3, , , , ,5.9,0, , , ,5.1, , ,3132
+Jordan Walden,Braves,47,3.3, , , , , ,3.2, , , ,1.1, , ,3271
+Alex Torres,Rays,58,3.3,9.6,-0.7, , , ,0, , , ,5.8, , ,7038
+Alex Wood,Braves,77.2,3.3,-0.1, , , , ,0.4,0.2,-1, ,1.5, , ,13781
+Joe Ortiz,Rangers,44.2,3.2, , , , ,-5,-1.8,0, , ,2.9, , ,7955
+Derek Holland,Rangers,213,3.2, , , , ,-8.8,10,-0.2,-4.4, ,4.1, , ,4141
+Matt Belisle,Rockies,73,3.2,-2.1,-3.1, , , ,1.8,2.8, , ,-0.2, , ,1837
+Jose Valverde,Tigers,19.1,3.1,0, ,-5.6, , , , , , , , , ,1726
+Dan Jennings,Marlins,40.2,3.1,-0.2, , , , ,-1.3, , , ,0, , ,8073
+Mike Leake,Reds,192.1,3.1, ,-0.3, , ,-2.6,-2.2,10.1, , ,-2.9, , ,10130
+Sonny Gray,Athletics,64,3.1,-0.9,0, , , ,-0.5,8.7, , ,-0.9, , ,12768
+Jesse Crain,White Sox,36.2,3.1, , , , , ,3.4,-2.5, , ,1.4, , ,4817
+Brandon Gomes,Rays,19.1,3,-1.1, ,-2, , ,-0.2, , , , , , ,2267
+Sergio Santos,Blue Jays,25.2,2.9, , , , ,0,7.3, , , ,0.3, , ,4734
+Dan Haren,Nationals,169.2,2.9,1.9,-15,-0.5, , , ,0.4,0.3, , , , ,1757
+Brandon Kintzler,Brewers,77,2.9, , , , ,8.8,0.6, , , ,3.9, , ,9939
+Santiago Casilla,Giants,50,2.9,1.2, , , , ,2.3,1.9, , , , , ,2873
+Heath Hembree,Giants,7.2,2.8, ,1.3, , , ,0,0, , ,-0.8, , ,11632
+Matt Guerrier,- - -,42.2,2.7,3.2,-4.3, , , , ,-3.5, , ,1.1, , ,2061
+Chia-Jen Lo,Astros,19.1,2.7, , , , , , ,-1.2, , ,0.2, , ,5440
+Jesse Chavez,Athletics,57.1,2.7,2.6,2.3, , , ,-0.5,2.7, , ,-3.3, , ,5448
+Stephen Pryor,Mariners,7.1,2.7, , , , , ,1,0.3, , , , , ,10663
+Jaime Garcia,Cardinals,55.1,2.6,-2.4,-1.6, , , ,1,0.3, , ,-0.6, , ,8137
+James Paxton,Mariners,24,2.6,-0.3, , , , ,-0.1,2.4, , ,1, , ,11828
+Louis Coleman,Royals,29.2,2.5,1.3, , , , ,6.9, , , ,0.2, , ,9720
+Zach McAllister,Indians,134.1,2.5,4.1, ,-4.3, , ,-2.3,-2.1, , ,-2.6, , ,2895
+Vin Mazzaro,Pirates,73.2,2.5,7.5, , , , ,-0.5, ,0.2, ,-0.3, , ,5231
+Grant Balfour,Athletics,62.2,2.5,1.7,0.3, , , ,-1,3.5, , ,0.2, , ,718
+David Phelps,Yankees,86.2,2.4,-7.9,0.1, , , ,2.8,1.4,-3.8, ,1.2, , ,6316
+B.J. Rosenberg,Phillies,19.2,2.4,-1.8, , , , ,2.7,-1, , ,0, , ,7183
+Antonio Bastardo,Phillies,42.2,2.4,0, , , , ,2, , , ,0.5, , ,8844
+Josh Edgin,Mets,28.2,2.4,0.4, , , , ,-1, , , ,0.6, , ,10796
+Wade Davis,Royals,135.1,2.3,-1.3,-9.9, , , , ,-1.3,-1, ,-8.5, , ,7441
+Yusmeiro Petit,Giants,48,2.3, ,-2, , , ,-2.2,5.5, , ,1.9, , ,4020
+Joakim Soria,Rangers,23.2,2.3, ,0.5, , , ,1.7,0.1, , ,-0.3, , ,6941
+Jeremy Hefner,Mets,130.2,2.3,-6.3, , , , ,9.9,-1.2, , ,-10.6, , ,1989
+Luke Gregerson,Padres,66.1,2.3,-0.7,3.6, , , ,3.9,0.2, , ,2.1, , ,4090
+Danny Farquhar,Mariners,55.2,2.2,1.6,3, , , ,0.1,2.9, , ,0, , ,8501
+Danny Salazar,Indians,52,2.1,0.1,0.1, , , ,0.7, , , ,2.1, , ,5867
+Liam Hendriks,Twins,47.1,2.1,-9.7, , , , ,-2.8,-0.6, , ,-3.4, , ,3548
+Brian Matusz,Orioles,51,2.1,1.8,0, , , ,4.3,1.7, , ,-2.4, , ,2646
+Matt Cain,Giants,184.1,2,-5.3, , , , ,10.4,1, , ,1.7, , ,4732
+Matt Daley,Yankees,6,2,0.8, , , , , ,0.2, , ,-0.7, , ,7952
+Francisley Bueno,Royals,8.1,2,0.1, , , , ,0.9, , , ,0.7, , ,5980
+Jered Weaver,Angels,154.1,2,1.1,1.5, , , ,-3.8,7.4, , ,2, , ,4235
+Robert Coello,Angels,17,2, ,0, ,-0.4, , ,0.7, , ,0.2, , ,1149
+Josh Fields,Astros,38,1.9,0.1, , , , ,0.1,-4.6, , ,0.6, , ,5070
+Jake Odorizzi,Rays,29.2,1.9,0, , , , ,-1.3,-0.3, , ,-0.3, , ,6397
+Jonathan Papelbon,Phillies,61.2,1.9,7, ,-1.9, , ,0, , , , , , ,5975
+Kyle Lohse,Brewers,198.2,1.9, , , , ,-0.6,3.5,0.9, , ,5, , ,739
+Mike Adams,Phillies,25,1.8,-0.5, , , , ,-1.6,0.5, , ,-2.5, , ,1937
+Rafael Betancourt,Rockies,28.2,1.8, ,0.5, , , ,-1.2, , , ,0.2, , ,177
+Preston Claiborne,Yankees,50.1,1.8,-3.8, , , , ,-1.1, , , ,3.5, , ,10500
+Mike Dunn,Marlins,67.2,1.7,0.1, , , , ,6.2,0.6, , , , , ,9948
+Ian Krol,Nationals,27.1,1.7,-4.6,0,0, , ,0.2,-1.4, , ,0.9, , ,10066
+Steve Johnson,Orioles,15.2,1.7, , , , , ,-1.4,-0.1, , ,-1.6, , ,4053
+Carlos Martinez,Cardinals,28.1,1.7,-1.8, , , , , ,1, , ,-0.3, , ,11682
+Michael Roth,Angels,20,1.7,0.3,0.7,-0.2, ,-2.3,0.9,-0.7, , ,-0.6, , ,13736
+Brian Wilson,Dodgers,13.2,1.6,1, , , , ,2.7,0, , , , , ,6485
+Shairon Martis,Twins,9.2,1.5,-2.9, , , , ,0.9,-0.1, , ,0.1, , ,6781
+Miguel Gonzalez,Orioles,171.1,1.5,3.8, , , , ,-5.9,-0.5, , ,2.7, , ,7024
+Mark Buehrle,Blue Jays,203.2,1.5,-6.4,0.9, , , , ,-3.5, , ,-3.4, , ,225
+Eduardo Sanchez,Cubs,6.1,1.5,-1.1, , , , ,-0.4, , , ,0, , ,2966
+Craig Breslow,Red Sox,59.2,1.5,6.8, , , , ,-0.3,0.4, , ,-1.9, , ,4363
+Taijuan Walker,Mariners,15,1.5, ,0.7, , , ,0.3,-0.2, , ,-0.2, , ,11836
+Eric O'Flaherty,Braves,18,1.4, , , , ,0.5,1.2, , , ,0, , ,5746
+Chang-Yong Lim,Cubs,5,1.4,0,0.1, , , ,-2,0, , ,-0.5, , ,14445
+Danny Duffy,Royals,24.1,1.4,0.2,0, , , ,0.1,0.1, , ,1.6, , ,3542
+Burke Badenhop,Brewers,62.1,1.4, , ,0, ,1.4,0.1, , , , , , ,9736
+Alex Colome,Rays,16,1.4, ,-1.2, , , , , , , ,-0.6, , ,6661
+Michael Stutes,Phillies,17.2,1.4,0.1, , , , ,-1, , , ,0, , ,6550
+Sam LeCure,Reds,61,1.3,1.7,-0.7, , , ,-2.8,2.2,5.2, ,0.4, , ,4664
+Scott Atchison,Mets,45.1,1.3,0, , , , ,0.6,-0.2, , ,-0.2, , ,2642
+Sam Dyson,Marlins,11,1.3,-3,-0.4, , , ,0.2,-0.6, , ,-1.7, , ,11710
+Steve Delabar,Blue Jays,58.2,1.3,0.1, , , , ,2.8, , , ,-1.3, , ,11827
+Sean Marshall,Reds,10.1,1.3,0.5, , , , ,0.7,2.6, , , , , ,5905
+Michael Tonkin,Twins,11.1,1.3,0.2,0, , , ,-0.4,1, , ,-0.1, , ,10315
+Alfredo Simon,Reds,87.2,1.2,7,1.6,-0.3, , ,-0.1, , , , , , ,2155
+David Hale,Braves,11,1.1,0.9,0, , , ,0,0.3, , ,-0.9, , ,9756
+Wesley Wright,- - -,53.2,1.1,-3.8, , , , ,-0.3,-1.9, , ,1.2, , ,5960
+Rob Wooten,Brewers,27.2,1.1,2.2,0,0.4, , ,0.7,-1.2, , , , , ,8532
+Kyle Gibson,Twins,51,1.1,-6.3,0, , , ,-2.8,-0.9, , ,-3, , ,10123
+Scott Feldman,- - -,181.2,1.1, ,3.9, , ,-1.6, ,4.8, , ,-2.1, , ,6283
+Edgar Gonzalez,- - -,18,1.1, ,-1.5, , ,-0.3,-5.5, , , ,-2.4, , ,1727
+Kyuji Fujikawa,Cubs,12,1.1, , , , , ,-0.5,-1.3, , ,0.8, , ,14443
+Chris Withrow,Dodgers,34.2,1.1, ,0.5, , , ,4.9,1.6, , ,0.1, , ,7161
+Jeremy Hellickson,Rays,174,1.1,-6.4,-0.1, , , , ,-7.3, , ,4.3, , ,4371
+Kenley Jansen,Dodgers,76.2,1.1, ,20.2, , , ,0.3, , , , , , ,3096
+Henderson Alvarez,Marlins,102.2,1,11.5, , , , ,-1.8,-0.1, , ,-0.9, , ,5669
+Brandon Workman,Red Sox,41.2,1,-1.1,-0.8, , , ,-0.8,-0.5,-1, ,0.3, , ,11428
+Steven Wright,Red Sox,13.1,1, ,-0.2, , , ,-0.9,-0.1, , ,0.8, ,0.4,8185
+Manny Corpas,Rockies,41.2,1, , , , ,2.1,-3.6, , , , , , ,2807
+Hector Rondon,Cubs,54.2,1,1.1,-0.1, , , ,-3.2, , , ,0.8, , ,2391
+Chad Billingsley,Dodgers,12,1,0.3,-0.6, , , ,-0.4,-0.1, , ,0.7, , ,5842
+Shawn Kelley,Yankees,53.1,1, ,0.2, , , ,-1.5, , , , , , ,7773
+Brian Duensing,Twins,61,1, , , , ,-4.1,2.1,-0.1, , ,-0.2, , ,4064
+Travis Blackley,- - -,50.1,1,-10,4, , , ,2.6,-0.2, , ,0.1, , ,3234
+Robbie Erlin,Padres,54.2,0.9,1.6, , , , ,-1.2,-0.2, , ,-0.5, , ,10354
+Fernando Abad,Nationals,37.2,0.9,-0.2, , , , , ,2.7,-1.1, ,-1.1, , ,4994
+Hiroki Kuroda,Yankees,201.1,0.9, , ,4.4, ,-3.8,4.1,0.4, , , , , ,3283
+Tim Byrdak,Mets,4.2,0.9, , , , , ,-2.8, , , ,-0.1, , ,1995
+Stolmy Pimentel,Pirates,9.1,0.9,0,-0.1, , , ,1.2, , , ,0.2, , ,6415
+Nate Jones,White Sox,78,0.9,0.5, , , , ,6.1,0, , ,0.3, , ,4696
+Wade LeBlanc,- - -,55,0.8,-6.5,-2.4, , , , ,-2, , ,-4.3, , ,5221
+Jose Ortega,Tigers,11.2,0.8,-0.5,0.5, , , ,-0.7,-0.1, , , , , ,9651
+Drew Storen,Nationals,61.2,0.8, , , , ,-1.8,-1.1, , , ,1.9, , ,6983
+Neftali Feliz,Rangers,4.2,0.8,-0.3, , , , ,-0.6,-0.1, , ,0.1, , ,18
+A.J. Ramos,Marlins,80,0.8,0.1,-0.4, , , ,4.7,1.6, , ,3, , ,8350
+Charles Brewer,Diamondbacks,6,0.8,0,0, , , , ,-1.2, , ,0.1, , ,9155
+Miles Mikolas,Padres,1.2,0.8,0, , , , , ,-0.2, , , , , ,9803
+Randall Delgado,Diamondbacks,116.1,0.7,-4, , , , , ,-3.4, , ,0.1, , ,5985
+Jake Petricka,White Sox,19.1,0.7,-1, , , , ,1.3, , , ,0.4, , ,10534
+Bronson Arroyo,Reds,202,0.7, ,-0.1,0.9, ,-13.3,19,-1.1, , ,-8.2, , ,978
+Simon Castro,White Sox,6.2,0.7,0,0, , , ,0.6,-0.8, , ,0, , ,9243
+Dan Otero,Athletics,39,0.7, , , , ,2.8,1.8,-0.8, , ,3.4, , ,7385
+Javy Guerra,Dodgers,10.2,0.7, , , , , ,-2.3,-1.8, , ,0, , ,7407
+Rob Scahill,Rockies,33.1,0.7,-2.5, , , , ,-3.1, , , ,0.1, , ,9286
+Brandon Beachy,Braves,30,0.6,-0.7, , , , ,-3.3,1, , ,2.2, , ,8851
+Kevin Gregg,Cubs,62,0.6, ,2.1,-4.8, ,3.1,-2, , , , , , ,1793
+Daniel Webb,White Sox,11.1,0.6, ,-0.2, , , ,0.7,0.5, , ,0.8, , ,10558
+Joe Paterson,Diamondbacks,2.1,0.6, , , , ,-0.8,0.3, , , , , , ,2565
+Juan Perez,Blue Jays,31.2,0.6,0.2, , , ,-2.7,4.2, , , ,0.6, , ,2557
+Drake Britton,Red Sox,21,0.6,3.2, ,-0.1, , ,-2,0.3, , ,0.7, , ,2868
+Luis Ayala,- - -,33,0.6,1.9, , , , ,1.1,-1.5, , ,-1.1, , ,1650
+Pedro Beato,Red Sox,10,0.6, , , , ,-0.1,-2.2,0.4, , , , , ,1330
+Matt Magill,Dodgers,27.2,0.6, ,-0.6, , , ,-7.4, , , ,0, , ,3950
+Jenrry Mejia,Mets,27.1,0.5,-1.2,-0.2, , , ,3.6,-1.7, , ,0.8, , ,8476
+Randy Choate,Cardinals,35.1,0.5, , , , ,4.3,3.1, , , , , , ,813
+Tim Collins,Royals,53.1,0.5, ,0.9, , , , ,-0.5, , ,1.4, , ,3164
+Ramon Ortiz,Blue Jays,25.1,0.5,-5.9, , , , ,-1.5, , , ,-1.2, , ,27
+Darren O'Day,Orioles,62,0.5, , , , ,-1.5,8.9, , , , , , ,3321
+Everett Teaford,Royals,0.2,0.5,-0.2, , , , ,-0.3,0.1, , , , , ,3732
+Eury De la Rosa,Diamondbacks,14.2,0.4, , , , ,-1.4,-2.2,0.1, , ,0.6, , ,4055
+Enny Romero,Rays,4.2,0.4,-0.3, , , , ,0.9,0, , ,0.2, , ,4001
+Kevin Chapman,Astros,20.1,0.4,3.2, , , , ,0.3,-1.1, , , , , ,11240
+Matt Thornton,- - -,43.1,0.4,1.7,-0.7, , , ,0.1, , , , , , ,1918
+Chris Rusin,Cubs,66.1,0.4, , , , ,1.7,-1,-2.3, , ,-1.5, , ,9895
+Scott Rice,Mets,51,0.4,0.2, , , ,1.4,5, , , ,-0.5, , ,2743
+Tom Layne,Padres,8.2,0.3,2.1, , , , ,-2.8,-1.3, , , , , ,7501
+James McDonald,Pirates,29.2,0.3,-4.7, , , , ,0.9,-0.6, , ,0.2, , ,5523
+Sam Fuld,Rays,0.1,0.3, , , , , , , , , ,0, , ,8254
+Keith Butler,Cardinals,20,0.3,-0.9, , , , , ,1, , ,2.3, , ,10080
+Chris Narveson,Brewers,2,0.3,0,0.1, , , , ,0, , ,0.2, , ,2141
+Alex Cobb,Rays,143.1,0.3,5.6, , , , , ,-0.4, , ,8.9, , ,6562
+Bobby Parnell,Mets,50,0.2,7, , , , ,1.7,0.3,0.2, ,0.7, , ,9926
+Ryan Raburn,Indians,1,0.2, ,-0.1, , , ,0, , , ,0.6, , ,2218
+Franklin Morales,Red Sox,25.1,0.2,3.5, , , , ,0.4,-1.6, , ,-2.8, , ,5088
+Duke Welker,Pirates,1.1,0.2, ,0.1, , , ,0.7,0, , , , , ,792
+Daisuke Matsuzaka,Mets,38.2,0.2,3.4,-1.6,0.4, , ,-0.7,1.9, , ,-2.5, , ,7775
+Thad Weber,- - -,15,0.2,-0.7, , , , , ,1.9, , ,-1, , ,8036
+Joe Savery,Phillies,20,0.2, ,1.6, , , ,0.6, , , ,-1.5, , ,2835
+Josh Tomlin,Indians,2,0.2, ,-0.2, , ,0.1, ,0, , ,0.3, , ,9388
+Alex Sanabia,Marlins,55.1,0.2, , , , ,-8.2,-3.7, , , ,-0.7, , ,5350
+Rob Johnson,Cardinals,0.1,0.2, , , , , , , , , ,0.1, , ,8029
+Brooks Raley,Cubs,14,0.1,-1.1, , , , ,-0.2,1.7, , ,-1.2, , ,10061
+Cesar Cabral,Yankees,3.2,0.1,0.3, ,0, , ,0.6, , , ,0, , ,6741
+Steven Ames,Marlins,4,0.1,0.2, , , , ,-0.7, , , ,0.1, , ,9615
+Chris Dwyer,Royals,3,0.1, ,0.1, , , , ,1.1, , ,0, , ,10045
+Barry Enright,Angels,8.1,0.1, , , , ,-3.4,-0.1,-0.2, , ,-1.3, , ,2412
+Huston Street,Padres,56.2,0.1, , , , ,2.3,4.2, , , ,-3, , ,8258
+Jose De La Torre,Red Sox,11.1,0.1,-0.3,0.3, , , ,-2.4,-0.1, , ,-0.2, , ,787
+Luis Avilan,Braves,65,0.1,16, , , , , ,0.5, , ,0.1, , ,2882
+Sean Burnett,Angels,9.2,0.1, , , , ,0.6,0.3, , , ,0.1, , ,1886
+Chris Sale,White Sox,214.1,0.1,6, , , , ,13.1, , , ,5.4, , ,10603
+Ryan Reid,Pirates,11,0, , , , ,-0.9,1.4, , , ,0.1, , ,9385
+Ryan Webb,Marlins,80.1,0, , , , ,1.1,5.8, , , ,-2.7, , ,7474
+Josh Lueke,Rays,21.1,0, , ,-0.2, , ,-3.8, , , , , , ,5722
+Mark Lowe,Angels,11.2,0,-0.2, , , , ,-1.6, , , ,-0.7, , ,7416
+Justin Verlander,Tigers,218.1,0,0.7, , , , ,3.9,0.6, , ,3, , ,8700
+Wilmer Font,Rangers,1.1,0, , , , , ,-0.1, , , ,0, , ,5257
+Jason Marquis,Padres,117.2,0, , , , ,-8.4,-6.3, , , ,2.8, , ,105
+Joe Kelly,Cardinals,124,0,6.1, , , , ,-0.3,-1.7, , ,0.9, , ,9761
+Zach Phillips,Marlins,1.2,0, , , , ,0.4,-1.5, , , , , , ,99
+Blake Beavan,Mariners,39.2,0,-0.4, , , , ,-1.8,-1.1, , ,-1.9, , ,338
+C.C. Lee,Indians,4.1,0,-1.4, , , , , ,0.2, , , , , ,5177
+Brandon Cumpton,Pirates,30.2,0,0, , , ,6,0,0.3, , ,-1.5, , ,11366
+David Carpenter,Angels,0.1,0, , , , ,-2,-0.1, , , ,0, , ,9244
+Ramon Troncoso,White Sox,30,0, , , , ,1.7,-5.5,0.7, , , , , ,4685
+Donnie Joseph,Royals,5.2,-0.1,0, , , , ,0.8, , , , , , ,6491
+Javier Lopez,Giants,39.1,-0.1,5.3, , , , ,2.3,1.5, , ,-2.1, , ,1663
+Cory Gearrin,Braves,31,-0.1, , , , ,-0.9,1.5, , , ,0.3, , ,7947
+Tyler Robertson,Twins,1,-0.1,0.2, , , , ,-0.8, , , , , , ,3223
+Jeremy Affeldt,Giants,33.2,-0.1,4.5, , , , , ,-0.1, , ,-0.1, , ,583
+Jared Hughes,Pirates,32,-0.1, , , , ,-4.8,0.7, , , ,0.3, , ,9325
+Manny Parra,Reds,46,-0.1,-1.1, ,-0.8, , , ,5.4, , ,0.2, , ,4279
+Jeanmar Gomez,Pirates,80.2,-0.1, ,0.1, , ,8,-1.4,-0.1, , ,1.3, , ,9033
+Bryan Shaw,Indians,75,-0.1, ,7, , , ,7.2,1.8, , ,-3.6, , ,8110
+Michael Kirkman,Rangers,22,-0.1, , , , ,-5.6,-1.4,-0.5, , ,-0.8, , ,9877
+Luis Perez,Blue Jays,5,-0.1,-0.1, , , , ,0.9, , , ,0.5, , ,6389
+Skip Schumaker,Dodgers,2,-0.1, ,-0.3, , , , ,-0.2, , ,-0.4, ,0,3704
+Zac Rosscup,Cubs,6.2,-0.2,0, , , , ,0.7, , , , , , ,9419
+Jacob Turner,Marlins,118,-0.2,1,-5.1, , , , ,0.3, , ,-1.2, , ,10185
+Matt Albers,Indians,63,-0.2, , , , ,8.5,1,-2, , ,-0.2, , ,4300
+Anthony Recker,Mets,1,-0.2, , , , , , , , , ,-0.8, , ,4063
+Daniel Bard,Red Sox,1,-0.2,0, , , , ,-0.1, , , , , , ,7115
+Alberto Cabrera,Cubs,6,-0.2,-0.7, , , , ,-0.8, , , ,0.2, , ,8352
+Josh Collmenter,Diamondbacks,92,-0.2, ,10.9, , ,0, ,-2.8, , ,3.4, , ,7312
+Rubby de la Rosa,Red Sox,11.1,-0.2,-0.6, , , , ,-1.4, , , ,-1.2, , ,3862
+A.J. Burnett,Pirates,191,-0.2, , , , ,-0.2, , ,20.1, ,-3.8, , ,512
+Ervin Santana,Royals,211,-0.2,-0.4, , , , ,13.5, , , ,-2, , ,3200
+Octavio Dotel,Tigers,4.2,-0.2, ,-3.8, , , ,0.2, , , , , , ,555
+Blake Wood,Indians,1.1,-0.3, , , , , ,0, , , ,0, , ,1345
+Chien-Ming Wang,Blue Jays,27,-0.3, , ,-1.5, ,-4.9,-2,-0.5, , , , , ,2074
+Frank Francisco,Mets,6.1,-0.3, , ,1.9, , , ,0, , , , , ,1933
+Aaron Harang,- - -,143.1,-0.3,-12.1, , , , ,-4.7,2.9, , ,-4.4, , ,1451
+Victor Marte,Cardinals,3,-0.3,-1.3, ,-1, , ,1.7, , , ,-0.2, , ,5158
+Marco Estrada,Brewers,128,-0.3, , , , , , ,-1.6, , ,12, , ,1118
+Luke Putkonen,Tigers,29.2,-0.3, , , , ,-2.4, ,1.2,1.8, ,0.9, , ,6736
+Taylor Jordan,Nationals,51.2,-0.3,-4.6,-0.2, , , ,4.2,0.3, , ,1.1, , ,10466
+Phil Irwin,Pirates,4.2,-0.4,0,0.2, , , , ,-0.1, , ,-0.2, , ,9489
+Bobby LaFromboise,Mariners,10.2,-0.4, , , , ,1.6,-0.8, , , ,0.7, , ,7758
+Shawn Tolleson,Dodgers,0,-0.4, , , , , ,-0.2, , , , , , ,10481
+Joe Martinez,Indians,5,-0.4,0.8, , , , , ,1, , ,0, , ,3935
+Anthony Bass,Padres,42,-0.4,-4,-0.1, , , ,3.2, , , ,-3.4, , ,7982
+Will Smith,Royals,33.1,-0.4,2.4, , , , ,3.4,-1.3, , ,-1.6, , ,8048
+Cesar Jimenez,Phillies,17,-0.4,0.1, , , , ,-0.2,-0.2, , ,0.5, , ,3762
+Charlie Morton,Pirates,116,-0.4,9.3,0.1, , , , ,2.2, , ,-5.8, , ,4676
+Zach Putnam,Cubs,3.1,-0.4,-3.3, ,0.4, , ,0, , , , , , ,9080
+Josh Stinson,Orioles,17,-0.5,-0.3, , , , ,1.6,0.4, , ,1.7, , ,3219
+Zach Clark,Orioles,1.2,-0.5,0.2, , , , ,-0.9,0, , ,-0.1, , ,9189
+Charlie Leesman,White Sox,15.1,-0.5,-0.1, , , , ,-1.1,-1.3, , ,-1, , ,9124
+David Huff,- - -,37.2,-0.5,3.7,-0.1, , , ,-0.3,0.2, , ,-1.7, , ,4257
+Chris Capuano,Dodgers,105.2,-0.5, , , , ,-4.6,-0.5,-4.1, , ,2.2, , ,1701
+Burch Smith,Padres,36.1,-0.5,-0.8,-2.1, , , , ,-3.9, , ,-2.2, , ,12784
+Josh Zeid,Astros,27.2,-0.5, ,0.2, , , ,0,1.6, , ,-0.4, , ,6527
+Kyle McClellan,Rangers,9.1,-0.5, , , , ,-1.7,0.9,0.1, , ,0.3, , ,4845
+Sam Freeman,Cardinals,12.1,-0.6,0.5,0.6, , , ,0.7, , , ,1.5, , ,6832
+Matt Harrison,Rangers,10.2,-0.6,-4.3,-1.1, , , , ,0.9, , ,1.2, , ,5551
+Edgmer Escalona,Rockies,46,-0.6,-2.9, , , , ,-3.4,0, , ,-1.2, , ,8574
+Paul Maholm,Braves,153,-0.6,-3,-3.8, , , ,1.1,-4.8, ,-2.2,2.1, , ,8678
+Justin Masterson,Indians,193,-0.6, , , , ,3.7,18.3, , , ,0.5, , ,2038
+Ryan Cook,Athletics,67.1,-0.6,-4.7, , , , ,8.3, , , ,0.7, , ,8855
+Buddy Boshers,Angels,15.1,-0.6, , , , ,1.4,-0.1,1.1, , , , , ,8490
+Gavin Floyd,White Sox,24.1,-0.6,0.6,-4.9, , , , ,0.3, , ,-0.7, , ,3886
+Greg Reynolds,Reds,29.1,-0.6,-2.5, , , , ,-1,-2.3, , ,0.3, , ,5712
+Chance Ruffin,Mariners,9.2,-0.6,-2.1, , , , ,-0.8,-0.7, , ,-0.2, , ,11745
+Jhoulys Chacin,Rockies,197.1,-0.6,-0.1,-0.3, , , ,12.7,2.5, , ,-2.4, , ,2608
+Fernando Rodney,Rays,66.2,-0.6,0.4, , , , , , , , ,5, , ,494
+Jeff Beliveau,Rays,0.2,-0.7,0.3,-0.1, , , , , , , , , , ,8504
+T.J. McFarland,Orioles,74.2,-0.7,8.5, , , , ,-11.7, , , ,0.7, , ,3237
+Ross Detwiler,Nationals,71.1,-0.7, , , , ,-2.6,-3.2, , , ,-1.7, , ,2859
+Matt Reynolds,Diamondbacks,27.1,-0.7, , , , , ,1, , , ,2.5, , ,8887
+Nick Christiani,Reds,4,-0.7,0.8, , , , ,0.3, , , , , , ,10332
+Brett Oberholtzer,Astros,71.2,-0.7,2, , , , ,-0.1,0.1,-2.2, ,4, , ,3855
+Mickey Storey,Blue Jays,4,-0.7, , , , , ,-1,0.6, , , , , ,4721
+Jonathan Broxton,Reds,30.2,-0.7,0, , , , ,0.7,-0.9, , ,1, , ,4759
+Jake Diekman,Phillies,38.1,-0.7,5.1, , , , ,2.7, , , ,-0.3, , ,5003
+Jake Peavy,- - -,144.2,-0.7,10.6,1.7, , , ,-4.7,-1.9, , ,-1.8, , ,1051
+Andrew Miller,Red Sox,30.2,-0.7,0.3, , , , ,3.2, , , ,0.2, , ,6785
+Justin Freeman,Reds,1,-0.7, , , , , ,-0.8, , , ,0.1, , ,7568
+Jamey Wright,Rays,70,-0.7, ,7.8, , ,-3.6,2.1,3.3, , ,-2.6, , ,715
+Matt Lindstrom,White Sox,60.2,-0.8, , , , ,4.9,0.5, , , ,-0.6, , ,4604
+Bryan Morris,Pirates,65,-0.8, , , , , ,5.9,-0.8, , , , , ,10234
+Eric Surkamp,Giants,2.2,-0.8,-1.1,-1.7, , , , ,-0.6, , ,-0.8, , ,2540
+Sean Henn,Mets,2.2,-0.8, , , , , ,-0.1, , , ,-0.1, , ,2147
+Ronald Belisario,Dodgers,68,-0.8, , , , ,1.7,-0.2, , , ,0.6, , ,2203
+Marc Rzepczynski,- - -,30.2,-0.8, , , , ,-0.1,2.7, , , ,0.5, , ,6612
+Will Harris,Diamondbacks,52.2,-0.8, ,7.2, , , , ,-1, , ,-0.1, , ,3192
+Maikel Cleto,Cardinals,2.1,-0.8,-0.4, ,-1.7, , ,0.5, , , , , , ,5529
+Preston Guilmet,Indians,5.1,-0.8, ,-0.5, , , ,-0.8, , , ,0.1, , ,7303
+Brian Flynn,Marlins,18,-0.8,-0.9, , , , ,-5.2,-1.2, , ,-0.1, , ,12027
+Jose Dominguez,Dodgers,8.1,-0.9, ,-0.2, , , ,0.9,0.3, , ,-0.2, , ,11571
+Cody Allen,Indians,70.1,-0.9, , , , , ,0.5,3.4, , , , , ,12183
+Rafael Dolis,Cubs,5,-0.9,0.9, , , , ,0.1, , , , , , ,4185
+David Purcey,White Sox,25.1,-0.9,0, , , , ,0.5,0.2, , ,1.5, , ,8360
+Luis Mendoza,Royals,94,-0.9,-7.9, , , , ,-0.9,0.9, , ,-2.8, , ,3126
+Jake Dunning,Giants,25.1,-0.9,-0.1, , , ,-0.1,0.7, , , ,1.9, , ,10803
+Jose Contreras,Pirates,5,-0.9,-2.5, ,0.2, , ,0.5, , , , , , ,1660
+Gonzalez Germen,Mets,34.1,-0.9, ,-0.1, , , ,-1.1,0.2, , ,2, , ,5876
+Chris Hatcher,Marlins,8.2,-0.9,-1.8, , , , ,-0.1, , , ,-1.1, , ,3299
+Brett Marshall,Yankees,12,-0.9,0,-0.3, , , ,-0.8,0.2, , ,-0.2, , ,5364
+Carlos Torres,Mets,86.1,-0.9,1.2,2.9, , , ,2.2,1.6, , ,-3.1, , ,7624
+Raul Valdes,Phillies,35,-1,0.7, , , , , ,-6.5, , ,-0.3, , ,1953
+Billy Buckner,Angels,17.1,-1,1.7, , , , ,0.5,-1.1, , ,-2.2, , ,8253
+Guillermo Moscoso,Giants,30,-1,2.6, ,-0.1, , ,-2.2,0.9, , ,0, , ,5106
+Chris Leroux,Pirates,4,-1,-1, , , , ,0.7, , , , , , ,7645
+Zeke Spruill,Diamondbacks,11.1,-1, , , , ,-3.6,-0.4,-0.8, , , , , ,3873
+Justin De Fratus,Phillies,46.2,-1,0.4, , , , ,0, , , ,-0.2, , ,4955
+Craig Stammen,Nationals,81.2,-1,1.2, , , , ,2.9,-0.5,0.4, ,-0.1, , ,7274
+Duane Below,Marlins,2.2,-1.1, , , , , ,-1.1,0.4, , ,0, , ,3124
+John Gast,Cardinals,12.1,-1.1,-0.4, , , , , ,0.8, , ,1.6, , ,11133
+Hisanori Takahashi,Cubs,3,-1.1,0.4, , , , ,-0.9,0.2, , ,0.5, , ,10091
+Luis Garcia,Phillies,31.1,-1.1,0.2, , , , ,-0.9,0, , , , , ,6984
+Lucas Luetge,Mariners,37,-1.1, , , , ,1,-2.7,0.8, , ,-1, , ,8337
+Kyle Drabek,Blue Jays,2.1,-1.1,0,-1, , , , ,-0.2, , ,0.4, , ,4359
+Mike Zagurski,- - -,6.1,-1.1,-1.5, , , , ,-2.3, , , ,0, , ,9683
+Xavier Cedeno,- - -,12.1,-1.1,-0.3, , , , ,0.1,0.4, , ,-0.2, , ,36
+David Hernandez,Diamondbacks,62.1,-1.1,0.5, , , , , ,2.6, , ,-0.3, , ,4259
+Nick Maronde,Angels,5.1,-1.1, , , , ,-0.7,0.5, , , , , , ,12530
+Ivan Nova,Yankees,139.1,-1.2,8.4,-0.2, , , ,0.1,3.4, , ,1.3, , ,1994
+Casper Wells,- - -,1.2,-1.2,-0.2,0.1, , , ,0.2,0, , ,-0.1, , ,9700
+Bruce Rondon,Tigers,28.2,-1.2,-0.1,-1.5, , , ,2.9, , , ,0.2, , ,5766
+Dave Bush,Blue Jays,3,-1.2,-3.3,0, , , , ,0.4, , , , , ,4635
+Matt Shoemaker,Angels,5,-1.3,0.9,0.1, , , ,0.9,0, , ,1.4, , ,4776
+David Holmberg,Diamondbacks,3.2,-1.3,-0.3, , , , ,-0.5,-0.2, , ,0.6, , ,7725
+Paco Rodriguez,Dodgers,54.1,-1.3,-0.7, , , ,-0.1,6.4,9, , ,1.1, , ,13398
+Boone Logan,Yankees,39,-1.3,1, , , , ,4, , , ,0, , ,5525
+Ryan Brasier,Angels,9,-1.3,0.6, , , , ,1.4, , , ,0.4, , ,5615
+Mauricio Robles,Phillies,4.2,-1.3,0, , , , ,0.6, , , ,-0.7, , ,8895
+Ubaldo Jimenez,Indians,182.2,-1.3,-5,1,-1.1, , ,7,0.3, , ,3.1, , ,3374
+Jeremy Horst,Phillies,26,-1.3,-3.5, , , , ,-1.2, , , ,0.2, , ,596
+Chad Durbin,Phillies,16,-1.4,-2.8,-3.1,-0.1, , , ,-0.3, , ,-0.8, , ,1442
+Neil Wagner,Blue Jays,38,-1.4, ,0.4, , , ,0.2, , , ,0.7, , ,8162
+Brandon League,Dodgers,54.1,-1.4, , ,-7.1, ,-2.7,-0.3, , , , , , ,3731
+Chris Volstad,Rockies,8.1,-1.5, , , , ,-3.6, ,-0.3, , ,-1.5, , ,9901
+Jeff Manship,Rockies,30.2,-1.5,-3.9, , , , , ,1.1, , ,-2.7, , ,6865
+Brad Boxberger,Padres,22,-1.5, ,1.1, , , ,-1.7, , , ,0.3, , ,10133
+Rhiner Cruz,Astros,21.1,-1.5,-0.4, , , , ,-2.2, , , ,0.1, , ,711
+Pedro Figueroa,Athletics,3,-1.5, , , , ,-2.5,0.4, , , ,0, , ,6616
+Tyson Ross,Padres,125,-1.5,-0.5,-0.2, , , ,20.1, , , ,-1.9, , ,7872
+Phil Coke,Tigers,38.1,-1.6,-3.9, , , , ,2.1, , , ,1, , ,5535
+Garrett Richards,Angels,145,-1.6,2.1,1.2, , , ,2.1,1.2, , ,-2.2, , ,9784
+Darin Downs,Tigers,35.1,-1.6,-0.3,0.7, , , ,1.2,0.2, , ,-1.6, , ,5903
+Bruce Chen,Royals,121,-1.6, , , , ,-3.4,6.1,0.4, ,0.6,5.4, , ,769
+Shaun Marcum,Mets,78.1,-1.7,-1.6,-0.7, , , ,1.5,-2.2, , ,3.4, , ,6204
+Scott Barnes,Indians,8.2,-1.7,-1.3, , , , ,0, , , ,0.5, , ,8718
+Joba Chamberlain,Yankees,42,-1.7, , , , , ,-4.4,0.1, , ,0, , ,2692
+Ricky Romero,Blue Jays,7.1,-1.7,-1.8, , , , , ,-0.6, , ,0.4, , ,3403
+Francisco Liriano,Pirates,161,-1.7,-4.3, , , , ,20.8, , , ,5.3, , ,3201
+Matt Moore,Rays,150.1,-1.7,4, , , , ,0.2, , , ,9.3, , ,1890
+Daniel Stange,Angels,1.2,-1.7, , , , , ,0.6, , , ,0, , ,9404
+Mitchell Boggs,- - -,23.1,-1.7, ,0.2, , ,-4.5,-2.7, , , ,0.3, , ,3344
+Hideki Okajima,Athletics,4,-1.8, , ,-0.6, , , ,0, , , , , ,7763
+Erasmo Ramirez,Mariners,72.1,-1.8,-0.3,0.4, , , ,-1.4,-2, , ,-0.5, , ,10314
+Greg Burke,Mets,31.2,-1.8, , , , ,-11,4.6, , , ,-0.1, , ,6282
+Michael Belfiore,Orioles,1.1,-1.8,-0.1, , , , ,-0.1,-0.2, , , , , ,9324
+Sean Nolin,Blue Jays,1.1,-1.8,0.8,-1, , , ,0.1,-1.9, , ,0.2, , ,11341
+Dallas Keuchel,Astros,153.2,-1.8,-7,-1.8, , , ,-2.7,-2.7, , ,-3, , ,9434
+Josh Lindblom,Rangers,31.1,-1.8,0.7, , , , ,0.7,-1.2, , ,-1, , ,7882
+Jairo Asencio,Orioles,2.1,-1.8, , , , , ,0.2, , , ,0.6, , ,3332
+Donnie Veal,White Sox,29.1,-1.9,1.8, , , , , ,3.1, , ,-0.8, , ,4741
+Erik Bedard,Astros,151,-1.9,-10.3,-1, , , , ,2.1, , ,0.6, , ,126
+Jeurys Familia,Mets,10.2,-1.9, , , , ,-1.2,0.6, , , ,0.2, , ,5114
+Alex Burnett,- - -,2.1,-1.9,0.3, , , , ,0.3,-0.4, , , , , ,4065
+Dellin Betances,Yankees,5,-1.9, ,-1.3, , , ,0.1, ,1, , , , ,6216
+Bud Norris,- - -,176.2,-1.9,-9.5,0, , , ,3.6, , , ,-6.2, , ,9492
+Vic Black,- - -,17,-1.9,0.2,0, , , ,0,1.9, , , , , ,9195
+Freddy Garcia,- - -,80.1,-1.9, , ,-0.6, ,-3.1,5.7,-0.8, , ,-2.7, , ,1077
+Roberto Hernandez,Rays,151,-1.9, , , , ,-4.8,-5.5, , , ,2.5, , ,3273
+Michael Gonzalez,Brewers,50,-1.9,-2.1, , , , ,-6.1, , , ,-1.5, , ,1794
+Onelki Garcia,Dodgers,1.1,-1.9, , , , , ,0,0.2, , , , , ,13674
+Yordano Ventura,Royals,15.1,-1.9, , , , , , ,-0.2, , ,-0.9, , ,11855
+Jake Arrieta,- - -,75.1,-2, ,-1.9, , ,3.9,-0.9,-2.5, , ,1.6, , ,4153
+Ryan Pressly,Twins,76.2,-2,-1.7, , , , ,4.1,4.5, , ,0.4, , ,7005
+Tyler Cloyd,Phillies,60.1,-2,-6.8,-6.5, , , , ,-1.6, , ,0.5, , ,8536
+Nick Hagadone,Indians,31.1,-2,0.3, , , , ,3.6, , , , , , ,1351
+Kyle Farnsworth,- - -,38.1,-2, ,-0.9, , ,-0.6,1.7, , , , , , ,278
+Trevor Bauer,Indians,17,-2.1, ,0.2, , , ,-2,1.5, , ,-1.6, , ,12703
+Yoervis Medina,Mariners,68,-2.1,2.5, , , , , ,8.9, , ,0.1, , ,10498
+Kelvin Herrera,Royals,58.1,-2.1,0.2, , , , , ,-0.3, , ,1.7, , ,6033
+Vidal Nuno,Yankees,20,-2.1,1.4,0.4, , , ,2.7,-0.1, , ,-0.9, , ,9674
+Hiram Burgos,Brewers,29.1,-2.2,0,0.3, , , ,-4.1,-0.6, , ,-1.3, , ,9412
+Dustin McGowan,Blue Jays,25.2,-2.2,-1, , , , ,3.6, , , ,-1.1, , ,8600
+Erik Davis,Nationals,8.2,-2.2,0.9, , , , , ,0.6,-0.6, ,1, , ,8422
+Andrew Bailey,Red Sox,28.2,-2.2, ,3.2, , , , ,-0.1, , ,-0.6, , ,1368
+Michael Blazek,- - -,17.1,-2.2,-0.2,-0.1, , , ,1,0, , ,-0.2, , ,9654
+Henry Rodriguez,- - -,22,-2.3,-1.9, , , , ,0.1, , , ,1, , ,6371
+Alexi Ogando,Rangers,104.1,-2.3, ,0, , , ,4.4, , , ,5.1, , ,10261
+Chaz Roe,Diamondbacks,22.1,-2.3,0.2,1, , , ,2.7,-0.2, , , , , ,9866
+Trevor Cahill,Diamondbacks,146.2,-2.3, , , , ,-1.2,-3.4,-1, , ,1.1, , ,6249
+Josh Roenicke,Twins,62,-2.3,-4.2,2.1, , , ,0.5,-2.3, , ,0.4, , ,3241
+Jeremy Jeffress,Blue Jays,10.1,-2.4,3.8, , , , , ,0.3, , , , , ,9490
+Evan Scribner,Athletics,26.2,-2.4, ,0, , , , ,-0.2, , ,0.2, , ,7525
+Clayton Richard,Padres,52.2,-2.4,-3.3, , , , ,-4.7,-4.5, , ,-1.2, , ,3551
+Jim Miller,Yankees,1.1,-2.4,-0.1, , , , ,0.4,0.1, , , , , ,7458
+Edgar Olmos,Marlins,5,-2.4, ,-0.5, , , ,0.5, , , ,0, , ,10174
+Oliver Perez,Mariners,53,-2.5, , , , ,-2.8,6.5,0.1, , ,0.1, , ,1514
+Hector Ambriz,Astros,36.1,-2.5,-1.2, , , , ,-4.7,-1, , , , , ,559
+Kevin Gausman,Orioles,47.2,-2.5,0.8, , ,0.6, ,-1.7, , , , , , ,14107
+Roy Oswalt,Rockies,32.1,-2.5, ,-0.3, , ,-1.8,-0.9,-2.6, , ,-1.3, , ,571
+Brandon Lyon,Mets,34.1,-2.6,2,-0.5, , , ,-3.8,-0.4, , ,1, , ,1312
+Cesar Ramos,Rays,67.1,-2.6, , , , ,1.8,1.9,-1, , ,3.7, , ,3357
+Edinson Volquez,- - -,170.1,-2.6, , , , ,-4.7, ,-9.5, , ,-8.1, , ,3990
+Joel Hanrahan,Red Sox,7.1,-2.6, , , , , ,-2.1, , , , , , ,2186
+Jared Burton,Twins,66,-2.7,-3.9,-0.3, , , ,3.8, , , ,6.6, , ,8346
+Jorge De Leon,Astros,10,-2.7, ,0.4, , , ,0.6, , , ,-0.1, , ,5397
+Darren Oliver,Blue Jays,49,-2.7,0.8, , , , ,2.4, , , ,-0.8, , ,206
+Jair Jurrjens,Orioles,7.1,-2.7,0.2, , , , ,-0.3, , , ,1.1, , ,5556
+Matt Langwell,- - -,14,-2.7,0.1,0.4, , , ,0.2,0.6, , ,-0.1, , ,8130
+Felix Doubront,Red Sox,162.1,-2.7,-1.1,0.5, , , , ,-4.6, , ,3.6, , ,1478
+Evan Reed,Tigers,23.1,-2.8,-1.3,0.2, , , ,1.4, , , ,-0.6, , ,1349
+Brayan Villarreal,- - -,4.1,-2.8,0, , , , ,-2.3, , , , , , ,5180
+Jon Garland,Rockies,68,-2.9, , , , ,-5.5,0.3,-5.3, , ,-1.3, , ,232
+Wandy Rodriguez,Pirates,62.2,-2.9,1.9,0.7, , , , ,2, , ,-3, , ,2586
+Sean O'Sullivan,Padres,25,-2.9, ,1.3, , ,-2,0.7,-0.7, , ,0.3, , ,9137
+Chad Jenkins,Blue Jays,33.1,-2.9,2.1, , , , ,1.6, , , ,0.5, , ,10326
+Tony Sipp,Diamondbacks,37.2,-2.9,0, , , , ,-1, , , ,-0.5, , ,8280
+Kris Johnson,Pirates,10.1,-3, , , , ,0.6,0.6,-0.1, , ,1.5, , ,886
+Deunte Heath,White Sox,7.2,-3,-0.1, , , , ,-1.4,0.1, , ,0.2, , ,7371
+Jon Rauch,Marlins,16.2,-3, ,0, , , ,-1.4,0.5, , ,1, , ,1475
+Josh Beckett,Dodgers,43.1,-3,-5.8,-0.1, , , , ,-2.2, , ,1.9, , ,510
+Brad Brach,Padres,31,-3,0.5, ,0.8, , ,-3, , , , , , ,6627
+Dillon Gee,Mets,199,-3,-6.9,-2.3, , , ,-2.4,4.5, , ,0.5, , ,7396
+Pedro Strop,- - -,57.1,-3.2,0.1, , , , ,8.2, , , ,-2.3, , ,4070
+Kameron Loe,- - -,26.2,-3.2, ,0.1, , ,-3.1,-6.8, , , ,-2.2, , ,4422
+Tyler Lyons,Cardinals,53,-3.3,-1, , , , ,3,1, , ,-1, , ,11334
+Ramon Ramirez,Giants,5.2,-3.3, , , , , ,-0.4, , , ,-0.3, , ,7986
+Alfredo Figaro,Brewers,74,-3.3,1, , , , ,-4.6, , , ,1.4, , ,8404
+Chris Resop,Athletics,18,-3.3,-3.6, , , , ,2.7,-1, , ,1.4, , ,3799
+Rick Porcello,Tigers,177,-3.3,6.1, , , , ,0.7,-0.5, , ,3.2, , ,2717
+Ryan Dempster,Red Sox,171.1,-3.3,-10.1,-1.4,8, , ,-5, , , , , , ,517
+Carlos Marmol,- - -,49,-3.4,0, , , , ,-1.2, , , , , , ,2790
+Carlos Villanueva,Cubs,128.2,-3.4,1.4, , , , ,-1.9,0, ,0.1,7.5, , ,4138
+Jose Cisnero,Astros,43.2,-3.5, ,0.1, , , ,-3.8,-0.5, , ,1.4, , ,6399
+Edward Mujica,Cardinals,64.2,-3.5,1.5, ,8.7, , ,-1.4, , , , , , ,3970
+Johnny Hellweg,Brewers,30.2,-3.5,-5.1,-0.4, , , , ,-1.3, , ,-1.3, , ,10065
+P.J. Walters,Twins,39.1,-3.6,-2,0.5, , , ,-1.5, , , ,-2.5, , ,9557
+John Maine,Marlins,7.1,-3.6, , , , ,-0.4,-1.1, , , ,0.1, , ,4773
+Al Alburquerque,Tigers,49,-3.6,-1.7, , , , ,7.9, , , , , , ,6324
+Donovan Hand,Brewers,68.1,-3.6,-0.4, , , ,0.4,2.1,-1.6, , ,-0.1, , ,8728
+Hector Noesi,Mariners,27.1,-3.7,-1.2, , , , ,-1.2,0.4, , ,-2.5, , ,3292
+Josh Outman,Rockies,54,-3.8,0.1, , , , ,6.9, , , ,-1.5, , ,4004
+Kevin Jepsen,Angels,36,-3.9,-0.6,1, , ,0, ,1, , , , , ,6475
+Francisco Rodriguez,- - -,46.2,-3.9,0.1, , , , , ,1, , ,3.8, , ,1642
+Cole DeVries,Twins,15,-3.9,-2.2, , , , ,-3.4,-0.8, , ,0.7, , ,8201
+Zach Miner,Phillies,28.2,-3.9, , , , ,1.3,-2.9,-0.1, , ,-0.1, , ,3193
+Ross Wolf,Rangers,47.2,-3.9,0, , , , ,-1.1, , , ,1.4, , ,4534
+Todd Redmond,Blue Jays,77,-4,-1.5, , , ,2.1,-0.1,-0.1, , ,1.1, , ,9943
+Colt Hynes,Padres,17,-4.1,-1.5, , , , ,-0.5,0, , ,-1.7, , ,7560
+David Martinez,Astros,11.1,-4.1,-0.3,-0.1, , , ,1.2,-0.5, , ,-0.5, , ,8893
+Ryan Vogelsong,Giants,103.2,-4.1,-6.6, , , , ,-0.2,-4.8, , ,-1.9, , ,1011
+Martin Perez,Rangers,124.1,-4.1,-4.2, , , , ,-0.6,-1.6, , ,7.9, , ,6902
+Andy Pettitte,Yankees,185.1,-4.2,-0.8,3.8, , , ,-0.2,4, , ,-2.9, , ,840
+John Axford,- - -,65,-4.2,0.1, , , , ,0.6,-2.1, , ,0.1, , ,9059
+A.J. Griffin,Athletics,200,-4.2, , , , , ,-4.7,6.6, , ,9.8, , ,11132
+Mariano Rivera,Yankees,64,-4.2, ,13.6, , , , , , , , , , ,844
+Junichi Tazawa,Red Sox,68.1,-4.3, , , ,1.8,-0.2,0.5,0.1, , ,0.2, , ,4079
+Clayton Mortensen,Red Sox,30.1,-4.3,-2, , , , ,2.4, , , ,1.1, , ,3166
+Nick Tepesch,Rangers,93,-4.3, , , , ,-3.6,4.4,0.7, , ,-3.6, , ,11716
+Matt Garza,- - -,155.1,-4.3,3.1, , , , ,9.8,-2.8, , ,-2.7, , ,3340
+Yu Darvish,Rangers,209.2,-4.5,-2.5,4.3,-0.3, , ,35.1,-2, , ,0, , ,13074
+Tyler Skaggs,Diamondbacks,38.2,-4.5,-0.3, , , , , ,2.6, , ,-1.7, , ,10190
+Pedro Villarreal,Reds,5.2,-4.6,-1, , , , ,0.7,-1.6, , ,0, , ,9904
+Erik Johnson,White Sox,27.2,-4.7,0,0.3, , , ,-0.1,-0.4, , ,-0.6, , ,12520
+Jeff Francis,Rockies,70.1,-4.7, , , , ,-0.4, ,0.8, , ,-10.7, , ,4684
+Jose Mijares,Giants,49,-4.7,-1.8, , , , ,-3.1,0, , ,-0.1, , ,4140
+John Lackey,Red Sox,189.1,-4.7,4.7,5.7, , , ,0.4,-2.6, , ,-2.3, , ,1507
+Alex Wilson,Red Sox,27.2,-4.7,-0.7,-0.1, , ,2.2,0.5, , , ,0.1, , ,9239
+Sergio Romo,Giants,60.1,-4.8, ,-0.5, , ,-1.2,11.7, , , ,0, , ,9817
+Cory Rasmus,- - -,21.2,-4.8,1,0, , , ,-3.7,0.9, , ,-0.3, , ,2413
+Jeff Samardzija,Cubs,213.2,-4.8,-1.4,-4.7,0.9, , ,4.2, , , ,0, , ,3254
+Tom Gorzelanny,Brewers,85.1,-4.9,3.5, , , , ,2, , , ,2.9, , ,6244
+Kevin Slowey,Marlins,92,-4.9, , , , ,-3.3,4.7,-4, , ,-0.4, , ,9918
+Aaron Laffey,- - -,12.2,-4.9, ,0, , ,1,0.3, , , ,-2.3, , ,6248
+Mike Fiers,Brewers,22.1,-4.9, ,-0.9, , , , ,-2.7, , ,-1, , ,7754
+Jose Alvarez,Tigers,38.2,-4.9,3.6, , , , ,-2.9,0.4, , ,-2.6, , ,5358
+Chad Bettis,Rockies,44.2,-4.9,-0.4,-2, , , ,-3.3,-0.2, , ,0.4, , ,10587
+Zach Duke,- - -,31.1,-5,1.8, , , , ,-0.5,-0.6, , ,1.4, , ,3840
+Jonathan Sanchez,Pirates,13.2,-5,-1.9, , , , ,-4.3, , , ,-3.3, , ,7507
+J.A. Happ,Blue Jays,92.2,-5.1,-0.9, , , , ,-3.1,1, , ,3.8, , ,7410
+Drew Pomeranz,Rockies,21.2,-5.1,0, , , , ,-0.1,0, , ,-0.9, , ,11426
+Ryan Mattheus,Nationals,35.1,-5.1,1.5,-0.9,-1.2, , ,1, , , , , , ,7169
+Brian Omogrosso,White Sox,16.1,-5.2,0.6, , , , ,-1.8,-1.2, , ,-1.6, , ,1353
+Jarrod Parker,Athletics,197,-5.3,12.7, , , , ,-1.5,-0.6, , ,3.3, , ,4913
+Vinnie Pestano,Indians,35.1,-5.4,-0.9, , , , ,1.2, , , , , , ,4782
+Carlos Carrasco,Indians,46.2,-5.5,1.1, , , , ,0,-3.3, , ,-1.9, , ,6632
+Adam Warren,Yankees,77,-5.5,-9.8,2.8, , , ,3.5,1.9, , ,4.6, , ,9029
+David Aardsma,Mets,39.2,-5.6, ,0,-0.3, , ,3,0, , ,0.1, , ,1902
+Heath Bell,Diamondbacks,65.2,-5.7, , , , ,1.2, ,-1.4, , ,0.3, , ,2080
+Curtis Partch,Reds,23.1,-5.8, ,0, , , ,-0.1,0.3, , ,-0.6, , ,1333
+Robert Carson,Mets,19.2,-5.8, , , , , ,-1.6, , , ,-0.2, , ,2570
+Mike Pelfrey,Twins,152.2,-5.8, , ,-5.3, ,-4,-0.3,-0.5, , , , , ,5203
+Patrick Corbin,Diamondbacks,208.1,-5.9,13.1, , , , ,10, , , ,-6, , ,9323
+George Kontos,Giants,55.1,-5.9,-6.4, , , , ,8.7, , , ,0.4, , ,9486
+Joe Saunders,Mariners,183,-5.9,-3.2, , , , ,-7.1,-4.9, , ,-15, , ,4366
+Pedro Hernandez,Twins,56.2,-6,-5.5,-1, , , ,0,-2.1, , ,-4, , ,4578
+Juan Nicasio,Rockies,157.2,-6.2,0, , , , ,-5, , , ,-4.6, , ,7731
+Zach Britton,Orioles,40,-6.2,-3.5, , , , ,2.9, , , ,0.4, , ,3240
+Scott Kazmir,Indians,158,-6.2,7, , , , ,-3.2,-0.7, , ,1.9, , ,4897
+CC Sabathia,Yankees,211,-6.2, , , , ,-9.2,8.9,0.3, , ,-8.3, , ,404
+Justin Grimm,- - -,98,-6.4,-4.9, , , , ,0.5,-0.5, , ,-7.2, , ,11720
+Andre Rienzo,White Sox,56,-6.4,-0.4,-2.8, , , ,0.1,1.2, , ,0.5, , ,3507
+Aaron Crow,Royals,48,-6.4,2.1, , , , ,2.9,-2.5, , ,0, , ,10149
+Allen Webster,Red Sox,30.1,-6.4,-4.4,0.2, , , ,1.7,-1.1, , ,-0.1, , ,3993
+Ethan Martin,Phillies,40,-6.4,0.9, , , , ,-1.3,-0.2, , ,-0.4, , ,3877
+Jeremy Guthrie,Royals,211.2,-6.4, ,-1.6, , ,0.2,-1,-3.5, ,-0.2,-4.6, , ,2072
+Wilton Lopez,Rockies,75.1,-6.5,0, ,-0.1, ,6.7,-0.8, , , , , , ,4227
+Ted Lilly,Dodgers,23,-6.5, , , , ,-0.3,-1.6,0.9, , ,1.6, , ,833
+Adam Ottavino,Rockies,78.1,-6.5,-0.2, , , , ,14.7, , , ,-2.9, , ,1247
+Josh Wall,Dodgers,7,-6.6,0, , , , ,-0.4, , , , , , ,4436
+Wei-Yin Chen,Orioles,137,-6.6,-0.6, , , , ,2.7,1.3, , ,1.9, , ,13071
+Brad Lincoln,Blue Jays,31.2,-6.7,0.2, , , , , ,0.3, , ,1.5, , ,4241
+John Lannan,Phillies,74.1,-6.7,-3.6, , , , ,-0.9,-0.3, , ,2.1, , ,7080
+Nate Karns,Nationals,12,-6.7, , , , , , , ,-0.2, ,0.1, , ,12638
+Mat Latos,Reds,210.2,-6.8,3.1,1.7, , , ,13.8,6, , ,-0.9, , ,3815
+Jorge de la Rosa,Rockies,167.2,-7,-2.3, ,6.5, , ,5.6,-1, , , , , ,2047
+Brett Myers,Indians,21.1,-7,0.8,-1.4, , , ,-0.4,-1.7, , ,-0.8, , ,962
+Wily Peralta,Brewers,183.1,-7.1,-4.5, , , , ,6.2, , , ,-2.4, , ,7738
+J.C. Ramirez,Phillies,24,-7.6,-2.3, , , , ,0.3,-0.1, , ,0.1, , ,8302
+Brad Peacock,Astros,83.1,-7.7, , , , , ,2.4,-2.8,-1, ,-1.5, ,2,5401
+Logan Ondrusek,Reds,55,-7.7, ,3.6, , ,2,0.9, , , ,0.4, , ,3677
+Vance Worley,Twins,48.2,-7.8,2.4,-2.4, , , ,-6.9,-2.3, , ,-2.8, , ,6435
+Wade Miley,Diamondbacks,202.2,-7.8,7.8, , , , ,-4.1,-0.4, , ,5.6, , ,8779
+Lucas Harrell,Astros,153.2,-8.1,-9.1,-0.8, , , ,-2.1,-4.2, , ,-1.2, , ,7541
+Corey Kluber,Indians,147.1,-8.1, , , , ,-9.4,15.4,1.5, , ,1.6, , ,2429
+Josh Johnson,Blue Jays,81.1,-8.1,-3.9, , , , ,-3.6,1.3, , ,-6.2, , ,4567
+Brett Anderson,Athletics,44.2,-8.3,0.3, , , , ,3.2,-0.2, , ,0.9, , ,8223
+Philip Humber,Astros,54.2,-8.6,-0.1,0.2, , , ,-4.6,-4.5, , ,-0.1, , ,8586
+Ian Kennedy,- - -,181.1,-8.7,-0.8,-4, , , ,-0.3,-0.5, , ,-1.6, , ,6986
+Stephen Fife,Dodgers,58.1,-8.9,0.3, , , , ,-0.2,1.3, , ,-0.7, , ,8077
+Tim Lincecum,Giants,197.2,-9.1,-2.8, , , , ,5.7,2.8, , ,7.3, , ,5705
+Edwin Jackson,Cubs,175.1,-9.3,-9.9, , , , ,7,-3.5, , ,-3.5, , ,1841
+Brandon Morrow,Blue Jays,54.1,-9.3, ,-0.1,-3, ,0.7,0.1,-0.7, , , , , ,9346
+Jason Hammel,Orioles,139.1,-9.5,-2.3, , , , ,-3.1,3, , ,-5.3, , ,4538
+Jordan Lyles,Astros,141.2,-9.6,-5.6, , , , ,-7.8,-0.7, , ,-0.9, , ,7593
+Collin McHugh,- - -,26,-9.6,-1.3, , , , ,-1,0.3, , ,-0.9, , ,7531
+Carter Capps,Mariners,59,-9.8,-1.9, , , , ,2.5,-1.9,0.2, ,-0.9, , ,12803
+Ricky Nolasco,- - -,199.1,-9.8,8.3,0.8,-0.4, , ,13.2,-0.4, , ,-6.6, , ,3830
+Esmil Rogers,Blue Jays,137.2,-10.2,-4.6,0.2, , , ,3.9,-0.4, , ,-2.6, , ,6317
+Jeremy Bonderman,- - -,55,-10.3,2.3, , , , ,0.4, , , ,1.2, , ,1667
+Barry Zito,Giants,133.1,-10.4,-0.3,-2.1, , , ,0.1,-7, , ,-6.3, , ,944
+Alfredo Aceves,Red Sox,37,-10.5,1,0.6,-1.6, , ,-1.2,2, , ,-1.7, , ,5164
+Kevin Correia,Twins,185.1,-10.9,4.2,-0.2, , , ,0.2,-5.3, , ,-2.4, , ,1767
+Brandon Maurer,Mariners,90,-10.9,-1.9, , , , ,-2.5,-2.7, , ,-2.4, , ,4878
+Jason Vargas,Angels,150,-11.6,-9.7,-1.7, , , , ,3.6, , ,12.6, , ,8044
+Phil Hughes,Yankees,145.2,-11.6, ,-0.2, , , ,-4.1,-0.6, , ,-4.4, , ,7450
+Chris Perez,Indians,54,-11.9,-2.2, , , , ,4.3, , , , , , ,5213
+John Danks,White Sox,138.1,-12.8,-2.1,-0.1, , , , ,-1.1, , ,1.1, , ,6329
+Tommy Milone,Athletics,156.1,-12.9,-0.9,3.3, , , , ,-3.5, , ,6.3, , ,7608
+Scott Diamond,Twins,131,-13.2, , , , , , ,-7.2, , ,-4.4, , ,5089
+Cole Hamels,Phillies,220,-13.7, ,-4.7, , , , ,-1.1, , ,28.7, , ,4972
+Kris Medlen,Braves,197,-14,1.9,-0.5, , , , ,3.4, , ,13.2, , ,9417
+Tom Koehler,Marlins,143,-14.1,0.6, , , , ,0.4,14.8, , ,-1.7, , ,6570
+Tommy Hanson,Angels,73,-14.1, , , , , ,0.8,3.7, , ,-1.2, , ,9129
+Mike Kickham,Giants,28.1,-14.9,-0.4, , , , ,-0.6,-0.7, , ,0.4, , ,11618
+Paul Clemens,Astros,73.1,-15,0.2, , , , , ,2.5, , ,-2, , ,8037
+Joe Blanton,Angels,132.2,-19.2, ,-2.6, , ,-7,-3.2,-4.2, , ,-1.2, , ,4849
+Dylan Axelrod,White Sox,128.1,-21.7,-6.4, , , , ,-4.5,-2, , ,-1.2, , ,9303
+Derek Lowe,Rangers,13, , ,-1.2, , ,-0.2,-0.2, , , ,-0.7, , ,199
+John McDonald,Phillies,0.1, , , , , , , , , , ,-0.2, ,-0.4,395
+Jake Westbrook,Cardinals,116.2, , ,0,0.1, ,-4.8, ,-0.8, , ,-3.6, , ,412
+Scott Downs,- - -,43.1, , , , , ,4.1,0.3,-0.3, , , , , ,773
+Roy Halladay,Phillies,62, ,-5.9,-5.1,1.1, , , ,2.7, , ,-2.8, , ,1303
+Jamey Carroll,Twins,1, , , , , , , , , , ,0.7, ,0,1591
+Pedro Feliciano,Mets,11.1, , ,0.5, , ,-0.1,0.7, , , ,-1.7, , ,1601
+Chris Bootcheck,Yankees,1, , , , , , ,-0.3, , , ,-0.4, , ,1842
+Shawn Camp,Cubs,23, , , , , ,-7.2,-0.2, , , ,-2.5, , ,1855
+Justin Germano,Blue Jays,2, , , , , ,-2.9,0,-0.6, , ,0.6, , ,1938
+Jose Veras,- - -,62.2, , , ,-2, ,11.3, ,-1.6, , , , , ,2063
+Chad Qualls,Marlins,62, , , , , ,6.6,2.7, , , , , , ,2170
+Joe Smith,Indians,63, , , , , ,0.8,5.8, , , , , , ,3281
+Brandon McCarthy,Diamondbacks,135, , ,6.9,0, ,0.9, ,-5.8, , ,-6.4, , ,4662
+Pat Neshek,Athletics,40.1, , , , , ,-2.6,2.3, , , ,-1.9, , ,4682
+Rich Hill,Indians,38.2, ,-3.1, , , , ,3.6,-1.7, , , , , ,4806
+Clay Rapada,Indians,2, , , , , ,0.7,0.2, , , ,-0.5, , ,4831
+Peter Moylan,Dodgers,15.1, , , , , ,-2.4,-2, , , ,-0.5, , ,4891
+Alberto Gonzalez,Yankees,0.1, , , , , , , , , , ,0.2, , ,4906
+Cristhian Martinez,Braves,2.1, ,0.1, , , , ,-0.9, , , ,0, , ,5337
+Phillippe Aumont,Phillies,19.1, , , ,0, ,-4.1, ,-0.3, , , , , ,5362
+David Murphy,Rangers,1, , , , , , , ,0, , ,0, , ,6035
+Logan Kensing,Rockies,0.2, ,0.2, , , , ,-0.1,-0.2, , ,0.1, , ,6166
+Scott Baker,Cubs,15, , , , , ,1.6,0, , , ,0, , ,6176
+Kyle Kendrick,Phillies,182, , ,-1.6, , ,-1.9,-5.3, , , ,-6.4, , ,6230
+Steve Cishek,Marlins,69.2, , , , , ,10.1,4.1, , , ,0.4, , ,6483
+Cory Burns,Rangers,11.1, ,1.4, , , , ,-1.3, , , ,-1.8, , ,6620
+Jake Elmore,Astros,1, , , , , , , ,0, , ,0.6, ,0,7290
+Brad Ziegler,Diamondbacks,73, , , , , ,8.8, ,3, , ,2.1, , ,7293
+Jerry Blevins,Athletics,60, , , , , ,1.6,-1.6,5.3, , ,2, , ,7841
+Josh Harrison,Pirates,0.1, , , , , , , , , , , , ,0.2,8202
+Troy Patton,Orioles,56, ,-0.9, , , , ,1.9,-0.7, , ,-1.1, , ,8368
+Cody Eppley,Yankees,1.2, , , , , ,0.2,-0.9, , , ,0, , ,9095
+Aaron Loup,Blue Jays,69.1, ,2.9, , , , ,-1.1, , , ,2.8, , ,10343
+Yunesky Maya,Nationals,0.1, ,0.3, , , , ,-0.4, , , ,-1.4, , ,11420
